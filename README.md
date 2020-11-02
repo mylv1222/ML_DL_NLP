@@ -1,1 +1,1 @@
-# My book for Machine Learning, Deep Learning and Nature Language Process.
+# My notes for Machine Learning, Deep Learning and Nature Language Process.
